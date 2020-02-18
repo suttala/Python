@@ -1,2 +1,2 @@
-# Text-interface-game.scala
-A 'the shining' -themed text interface game made in Scala. 
+# Python
+Some simple pieces on code in Python that I have made in School.
